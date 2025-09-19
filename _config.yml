@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+gems:
+  - jekyll-sitemap
+exclude: 
+  - ./README.md
